@@ -1,6 +1,6 @@
-let a = 'pink';
-let s = 'orange';
-let d = 'skyblue';
+const a = 'pink';
+const s = 'orange';
+const d = 'skyblue';
 const div = document.getElementById("key");
 const body = document.querySelector("body");
 
